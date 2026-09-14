@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Esercizi/">
+    <Project Path="../Esercizio1_LoryTutor/Esercizio1_LoryTutor.csproj" />
+    <Project Path="../Esercizio2_LoryTutor/Esercizio2_LoryTutor.csproj" />
+  </Folder>
+  <Project Path="ConsoleApp1.csproj" />
+</Solution>
