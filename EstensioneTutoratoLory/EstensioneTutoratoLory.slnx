@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/SOLID/">
+    <Project Path="O_OpenClosePrinciple/O_OpenClosePrinciple.csproj" />
     <Project Path="S_SingleResponsibilityPrinciple/S_SingleResponsibilityPrinciple.csproj" />
   </Folder>
   <Project Path="EstensioneTutoratoLory/EstensioneTutoratoLory.csproj" />
