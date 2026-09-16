@@ -34,6 +34,7 @@
                 TypeOfWeapon.IceSceptre => TypeOfDamage.IceDamage,
                 TypeOfWeapon.Knife => TypeOfDamage.CutDamage,
                 TypeOfWeapon.Katana => TypeOfDamage.SlashDamage,
+                _ => throw new Exception("Nessun tipo di danno associato")
             };
             Console.WriteLine($"Il tipo di danno dell'arma \"{this.WeaponName}\" è {result}.");
         }
