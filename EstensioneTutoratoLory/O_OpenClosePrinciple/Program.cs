@@ -89,6 +89,8 @@
 
             Katana katana = new Katana("Riva di Sangue", TypeOfDamage.SlashDamage);
             katana.GetTypeDamage();
+
+            Console.ReadLine();
         }
     }
 }

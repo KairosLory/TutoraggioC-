@@ -1,6 +1,6 @@
 ﻿namespace Esercizio1_LoryTutor
 {
-    /* ESERICIZ LORY
+    /* ESERICIZIO LORY
      * METODO 1: Un metodo che accetta come argomento una stringa e restituisce la stessa stringa ma con tutte le lettere maiuscole.
      * METODO 2: Un metodo che accetta come argomento tre stringhe e ne restituisce la concatenazione.
      * METODO 3: Un metodo che accetta come argomento (in ordine) una stringa, un intero ed un char.

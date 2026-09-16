@@ -17,7 +17,7 @@
         }
         public void LogInPlayer()
         {
-            Console.WriteLine($"Il player {this.NamePlayer} si sta loggando sul server locato a {this.CountryPLayer}");
+            Console.WriteLine($"Il player {this.NamePlayer} si sta loggando sul server locato a {this.CountryPLayer}.");
         }
     }
 
@@ -54,6 +54,8 @@
             firstPlayer.LogInPlayer();
             Player secondPlayer = new Player("Cinicus", new DateOnly(1995, 12, 12), "Roma");
             LogInService.LogInPlayer(secondPlayer);
+
+            Console.ReadKey();
         }
     }
 }
